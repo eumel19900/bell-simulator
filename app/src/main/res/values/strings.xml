@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bell Simulator</string>
+    <string name="about">About...</string>
+    <string name="about_bell_sound">"Bell, Candle Damper, A (H1).wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org</string>
+</resources>
